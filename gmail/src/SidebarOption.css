@@ -9,7 +9,6 @@
   color: #818181;
 }
 
-
 .sidebarOption > .MuiSvgIcon-root {
   padding: 5px;
 }
@@ -25,7 +24,6 @@
   display: none;
   font-weight: 300;
 }
-
 
 .sidebarOption:hover > p {
   display: inline;
